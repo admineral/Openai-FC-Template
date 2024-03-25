@@ -47,6 +47,8 @@ const ChatComponent: React.FC<ChatComponentProps> = ({ onFormChange }) => {
     user: 'black',
     function: 'blue',
     assistant: 'green',
+    data: 'orange', 
+    tool: 'purple',
   };
 
   return (
